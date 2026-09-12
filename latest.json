@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url": "",
-  "notes": "First release."
+  "version": "1.0.2",
+  "url": "https://github.com/adminG03/stream-channel-updates/releases/download/v1.0.2/StreamChannel-Setup-1.0.2.exe",
+  "notes": "What's new in 1.0.2:\n- Polished in-app dialogs (no more browser pop-ups)\n- Panel address: set the panel's port and local IP\n- New folder button in the file browser\n- Live GPU-encode meter in System load\n- Lighter default quality so more machines stay in real time"
 }
